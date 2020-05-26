@@ -26,7 +26,7 @@ function add2(n) {
 
  function funkyFunction() {
 
-  var theFunk = function f(){
+ function f(){
 return "FUNKY!"
 
   }
